@@ -1,0 +1,3313 @@
+{
+  "metadata": {
+    "job_id": "69633c0ac0c856aea9725a3e",
+    "schema_version": "1.0",
+    "processing_timestamp": "2026-01-11T05:59:28.715034",
+    "total_rows": 411,
+    "columns": [
+      "Sr.",
+      "Category",
+      "Quantity",
+      "Rate",
+      "Amount",
+      "% Amount"
+    ],
+    "validation_summary": {
+      "total_rows": 411,
+      "valid_rows": 411,
+      "invalid_rows": 0,
+      "total_errors": 0,
+      "fixes_applied": []
+    }
+  },
+  "data": [
+    {
+      "Sr.": "1",
+      "Category": ".Kalyani",
+      "Quantity": "1",
+      "Rate": "687.82",
+      "Amount": "687.82",
+      "% Amount": "0.02"
+    },
+    {
+      "Sr.": "3",
+      "Category": "Work--S",
+      "Quantity": "1",
+      "Rate": "898.00",
+      "Amount": "898.00",
+      "% Amount": "0.02"
+    },
+    {
+      "Sr.": "3",
+      "Category": "Work--S",
+      "Quantity": "1",
+      "Rate": "921.42",
+      "Amount": "921.42",
+      "% Amount": "0.02"
+    },
+    {
+      "Sr.": "3",
+      "Category": "Work--S",
+      "Quantity": "1",
+      "Rate": "1181.00",
+      "Amount": "1181.00",
+      "% Amount": "0.03"
+    },
+    {
+      "Sr.": "4",
+      "Category": "9 Yard Border.",
+      "Quantity": "1",
+      "Rate": "473.00",
+      "Amount": "473.00",
+      "% Amount": "0.01"
+    },
+    {
+      "Sr.": "4",
+      "Category": "9 Yard Border.",
+      "Quantity": "2",
+      "Rate": "399.00",
+      "Amount": "798.00",
+      "% Amount": "0.02"
+    },
+    {
+      "Sr.": "4",
+      "Category": "9 Yard Border.",
+      "Quantity": "2",
+      "Rate": "389.00",
+      "Amount": "778.00",
+      "% Amount": "0.02"
+    },
+    {
+      "Sr.": "5",
+      "Category": "9 Yard Border",
+      "Quantity": "6",
+      "Rate": "278.27",
+      "Amount": "1669.62",
+      "% Amount": "0.04"
+    },
+    {
+      "Sr.": "5",
+      "Category": "9 Yard Border",
+      "Quantity": "1",
+      "Rate": "278.26",
+      "Amount": "278.26",
+      "% Amount": "0.01"
+    },
+    {
+      "Sr.": "5",
+      "Category": "9 Yard Border",
+      "Quantity": "5",
+      "Rate": "288.76",
+      "Amount": "1443.80",
+      "% Amount": "0.03"
+    },
+    {
+      "Sr.": "5",
+      "Category": "9 Yard Border",
+      "Quantity": "6",
+      "Rate": "288.77",
+      "Amount": "1732.62",
+      "% Amount": "0.04"
+    },
+    {
+      "Sr.": "5",
+      "Category": "9 Yard Border",
+      "Quantity": "4",
+      "Rate": "446.00",
+      "Amount": "1784.00",
+      "% Amount": "0.04"
+    },
+    {
+      "Sr.": "5",
+      "Category": "9 Yard Border",
+      "Quantity": "2",
+      "Rate": "336.00",
+      "Amount": "672.00",
+      "% Amount": "0.02"
+    },
+    {
+      "Sr.": "7",
+      "Category": "..Paithani..",
+      "Quantity": "2",
+      "Rate": "483.00",
+      "Amount": "966.00",
+      "% Amount": "0.02"
+    },
+    {
+      "Sr.": "7",
+      "Category": "..Paithani..",
+      "Quantity": "1",
+      "Rate": "1365.00",
+      "Amount": "1365.00",
+      "% Amount": "0.03"
+    },
+    {
+      "Sr.": "7",
+      "Category": "..Paithani..",
+      "Quantity": "2",
+      "Rate": "268.00",
+      "Amount": "536.00",
+      "% Amount": "0.01"
+    },
+    {
+      "Sr.": "8",
+      "Category": ".Banarasi",
+      "Quantity": "1",
+      "Rate": "1260.00",
+      "Amount": "1260.00",
+      "% Amount": "0.03"
+    },
+    {
+      "Sr.": "8",
+      "Category": ".Banarasi",
+      "Quantity": "1",
+      "Rate": "1669.51",
+      "Amount": "1669.51",
+      "% Amount": "0.04"
+    },
+    {
+      "Sr.": "8",
+      "Category": ".Banarasi",
+      "Quantity": "1",
+      "Rate": "221.00",
+      "Amount": "221.00",
+      "% Amount": "0.00"
+    },
+    {
+      "Sr.": "9",
+      "Category": ".Digital..",
+      "Quantity": "1",
+      "Rate": "473.00",
+      "Amount": "473.00",
+      "% Amount": "0.01"
+    },
+    {
+      "Sr.": "11",
+      "Category": ".Paithani.",
+      "Quantity": "1",
+      "Rate": "813.74",
+      "Amount": "813.74",
+      "% Amount": "0.02"
+    },
+    {
+      "Sr.": "12",
+      "Category": ".Patola.",
+      "Quantity": "2",
+      "Rate": "263.00",
+      "Amount": "526.00",
+      "% Amount": "0.01"
+    },
+    {
+      "Sr.": "12",
+      "Category": ".Patola.",
+      "Quantity": "3",
+      "Rate": "630.00",
+      "Amount": "1890.00",
+      "% Amount": "0.04"
+    },
+    {
+      "Sr.": "Sr.",
+      "Category": "Category",
+      "Quantity": "Quantity",
+      "Rate": "Rate",
+      "Amount": "Amount",
+      "% Amount": "% Amount"
+    },
+    {
+      "Sr.": "14",
+      "Category": "10 War",
+      "Quantity": "1",
+      "Rate": "973.00",
+      "Amount": "973.00",
+      "% Amount": "0.02"
+    },
+    {
+      "Sr.": "14",
+      "Category": "10 War",
+      "Quantity": "1",
+      "Rate": "972.58",
+      "Amount": "972.58",
+      "% Amount": "0.02"
+    },
+    {
+      "Sr.": "14",
+      "Category": "10 War",
+      "Quantity": "1",
+      "Rate": "923.00",
+      "Amount": "923.00",
+      "% Amount": "0.02"
+    },
+    {
+      "Sr.": "14",
+      "Category": "10 War",
+      "Quantity": "2",
+      "Rate": "673.32",
+      "Amount": "1346.64",
+      "% Amount": "0.03"
+    },
+    {
+      "Sr.": "14",
+      "Category": "10 War",
+      "Quantity": "1",
+      "Rate": "847.89",
+      "Amount": "847.89",
+      "% Amount": "0.02"
+    },
+    {
+      "Sr.": "15",
+      "Category": "10 War Treditionl",
+      "Quantity": "1",
+      "Rate": "1732.00",
+      "Amount": "1732.00",
+      "% Amount": "0.04"
+    },
+    {
+      "Sr.": "15",
+      "Category": "10 War Treditionl",
+      "Quantity": "2",
+      "Rate": "787.99",
+      "Amount": "1575.98",
+      "% Amount": "0.04"
+    },
+    {
+      "Sr.": "16",
+      "Category": "10 War.",
+      "Quantity": "1",
+      "Rate": "1097.25",
+      "Amount": "1097.25",
+      "% Amount": "0.02"
+    },
+    {
+      "Sr.": "17",
+      "Category": "10 Yard",
+      "Quantity": "1",
+      "Rate": "1838.00",
+      "Amount": "1838.00",
+      "% Amount": "0.04"
+    },
+    {
+      "Sr.": "17",
+      "Category": "10 Yard",
+      "Quantity": "1",
+      "Rate": "1123.53",
+      "Amount": "1123.53",
+      "% Amount": "0.03"
+    },
+    {
+      "Sr.": "17",
+      "Category": "10 Yard",
+      "Quantity": "1",
+      "Rate": "1124.00",
+      "Amount": "1124.00",
+      "% Amount": "0.03"
+    },
+    {
+      "Sr.": "20",
+      "Category": "10 Yrd",
+      "Quantity": "1",
+      "Rate": "588.00",
+      "Amount": "588.00",
+      "% Amount": "0.01"
+    },
+    {
+      "Sr.": "20",
+      "Category": "10 Yrd",
+      "Quantity": "1",
+      "Rate": "519.76",
+      "Amount": "519.76",
+      "% Amount": "0.01"
+    },
+    {
+      "Sr.": "20",
+      "Category": "10 Yrd",
+      "Quantity": "1",
+      "Rate": "1312.52",
+      "Amount": "1312.52",
+      "% Amount": "0.03"
+    },
+    {
+      "Sr.": "20",
+      "Category": "10 Yrd",
+      "Quantity": "1",
+      "Rate": "673.00",
+      "Amount": "673.00",
+      "% Amount": "0.02"
+    },
+    {
+      "Sr.": "20",
+      "Category": "10 Yrd",
+      "Quantity": "1",
+      "Rate": "822.94",
+      "Amount": "822.94",
+      "% Amount": "0.02"
+    },
+    {
+      "Sr.": "21",
+      "Category": "10 Yrd Cotton Silk",
+      "Quantity": "1",
+      "Rate": "952.09",
+      "Amount": "952.09",
+      "% Amount": "0.02"
+    },
+    {
+      "Sr.": "21",
+      "Category": "10 Yrd Cotton Silk",
+      "Quantity": "1",
+      "Rate": "788.00",
+      "Amount": "788.00",
+      "% Amount": "0.02"
+    },
+    {
+      "Sr.": "26",
+      "Category": "9 Yard  Border",
+      "Quantity": "2",
+      "Rate": "504.00",
+      "Amount": "1008.00",
+      "% Amount": "0.02"
+    },
+    {
+      "Sr.": "27",
+      "Category": "9 Yard Border",
+      "Quantity": "1",
+      "Rate": "473.00",
+      "Amount": "473.00",
+      "% Amount": "0.01"
+    },
+    {
+      "Sr.": "28",
+      "Category": "9 Yard Cotton",
+      "Quantity": "2",
+      "Rate": "306.60",
+      "Amount": "613.20",
+      "% Amount": "0.01"
+    },
+    {
+      "Sr.": "29",
+      "Category": "9 Yard Printed",
+      "Quantity": "1",
+      "Rate": "378.02",
+      "Amount": "378.02",
+      "% Amount": "0.01"
+    },
+    {
+      "Sr.": "29",
+      "Category": "9 Yard Printed",
+      "Quantity": "5",
+      "Rate": "284.00",
+      "Amount": "1420.00",
+      "% Amount": "0.03"
+    },
+    {
+      "Sr.": "31",
+      "Category": "9 Yrd",
+      "Quantity": "1",
+      "Rate": "427.43",
+      "Amount": "427.43",
+      "% Amount": "0.01"
+    },
+    {
+      "Sr.": "34",
+      "Category": "Banarasi",
+      "Quantity": "1",
+      "Rate": "1654.00",
+      "Amount": "1654.00",
+      "% Amount": "0.04"
+    },
+    {
+      "Sr.": "34",
+      "Category": "Banarasi",
+      "Quantity": "1",
+      "Rate": "1890.00",
+      "Amount": "1890.00",
+      "% Amount": "0.04"
+    },
+    {
+      "Sr.": "34",
+      "Category": "Banarasi",
+      "Quantity": "1",
+      "Rate": "661.50",
+      "Amount": "661.50",
+      "% Amount": "0.01"
+    },
+    {
+      "Sr.": "34",
+      "Category": "Banarasi",
+      "Quantity": "1",
+      "Rate": "1732.00",
+      "Amount": "1732.00",
+      "% Amount": "0.04"
+    },
+    {
+      "Sr.": "34",
+      "Category": "Banarasi",
+      "Quantity": "1",
+      "Rate": "1008.00",
+      "Amount": "1008.00",
+      "% Amount": "0.02"
+    },
+    {
+      "Sr.": "34",
+      "Category": "Banarasi",
+      "Quantity": "5",
+      "Rate": "220.50",
+      "Amount": "1102.50",
+      "% Amount": "0.02"
+    },
+    {
+      "Sr.": "34",
+      "Category": "Banarasi",
+      "Quantity": "2",
+      "Rate": "672.00",
+      "Amount": "1344.00",
+      "% Amount": "0.03"
+    },
+    {
+      "Sr.": "34",
+      "Category": "Banarasi",
+      "Quantity": "1",
+      "Rate": "1312.50",
+      "Amount": "1312.50",
+      "% Amount": "0.03"
+    },
+    {
+      "Sr.": "34",
+      "Category": "Banarasi",
+      "Quantity": "1",
+      "Rate": "805.60",
+      "Amount": "805.60",
+      "% Amount": "0.02"
+    },
+    {
+      "Sr.": "36",
+      "Category": "Banarasi  Jal",
+      "Quantity": "1",
+      "Rate": "787.51",
+      "Amount": "787.51",
+      "% Amount": "0.02"
+    },
+    {
+      "Sr.": "37",
+      "Category": "Banarasi  Shalu",
+      "Quantity": "1",
+      "Rate": "1653.75",
+      "Amount": "1653.75",
+      "% Amount": "0.04"
+    },
+    {
+      "Sr.": "37",
+      "Category": "Banarasi  Shalu",
+      "Quantity": "1",
+      "Rate": "1758.75",
+      "Amount": "1758.75",
+      "% Amount": "0.04"
+    },
+    {
+      "Sr.": "38",
+      "Category": "Banarasi  Silk",
+      "Quantity": "1",
+      "Rate": "698.25",
+      "Amount": "698.25",
+      "% Amount": "0.02"
+    },
+    {
+      "Sr.": "39",
+      "Category": "Banarasi Buti",
+      "Quantity": "1",
+      "Rate": "1338.74",
+      "Amount": "1338.74",
+      "% Amount": "0.03"
+    },
+    {
+      "Sr.": "40",
+      "Category": "Banarasi Em",
+      "Quantity": "1",
+      "Rate": "682.49",
+      "Amount": "682.49",
+      "% Amount": "0.02"
+    },
+    {
+      "Sr.": "43",
+      "Category": "Banarasi Shalu",
+      "Quantity": "1",
+      "Rate": "1838.00",
+      "Amount": "1838.00",
+      "% Amount": "0.04"
+    },
+    {
+      "Sr.": "45",
+      "Category": "Banarasi Silk",
+      "Quantity": "1",
+      "Rate": "840.00",
+      "Amount": "840.00",
+      "% Amount": "0.02"
+    },
+    {
+      "Sr.": "45",
+      "Category": "Banarasi Silk",
+      "Quantity": "1",
+      "Rate": "1548.73",
+      "Amount": "1548.73",
+      "% Amount": "0.03"
+    },
+    {
+      "Sr.": "45",
+      "Category": "Banarasi Silk",
+      "Quantity": "1",
+      "Rate": "1076.00",
+      "Amount": "1076.00",
+      "% Amount": "0.02"
+    },
+    {
+      "Sr.": "45",
+      "Category": "Banarasi Silk",
+      "Quantity": "2",
+      "Rate": "761.00",
+      "Amount": "1522.00",
+      "% Amount": "0.03"
+    },
+    {
+      "Sr.": "45",
+      "Category": "Banarasi Silk",
+      "Quantity": "2",
+      "Rate": "551.00",
+      "Amount": "1102.00",
+      "% Amount": "0.02"
+    },
+    {
+      "Sr.": "45",
+      "Category": "Banarasi Silk",
+      "Quantity": "2",
+      "Rate": "546.00",
+      "Amount": "1092.00",
+      "% Amount": "0.02"
+    },
+    {
+      "Sr.": "45",
+      "Category": "Banarasi Silk",
+      "Quantity": "1",
+      "Rate": "829.00",
+      "Amount": "829.00",
+      "% Amount": "0.02"
+    },
+    {
+      "Sr.": "46",
+      "Category": "Banarasi Silk.",
+      "Quantity": "1",
+      "Rate": "1706.25",
+      "Amount": "1706.25",
+      "% Amount": "0.04"
+    },
+    {
+      "Sr.": "46",
+      "Category": "Banarasi Silk.",
+      "Quantity": "1",
+      "Rate": "1207.49",
+      "Amount": "1207.49",
+      "% Amount": "0.03"
+    },
+    {
+      "Sr.": "46",
+      "Category": "Banarasi Silk.",
+      "Quantity": "1",
+      "Rate": "1128.74",
+      "Amount": "1128.74",
+      "% Amount": "0.03"
+    },
+    {
+      "Sr.": "46",
+      "Category": "Banarasi Silk.",
+      "Quantity": "1",
+      "Rate": "1102.49",
+      "Amount": "1102.49",
+      "% Amount": "0.02"
+    },
+    {
+      "Sr.": "46",
+      "Category": "Banarasi Silk.",
+      "Quantity": "1",
+      "Rate": "1076.24",
+      "Amount": "1076.24",
+      "% Amount": "0.02"
+    },
+    {
+      "Sr.": "48",
+      "Category": "Bandhani",
+      "Quantity": "1",
+      "Rate": "1055.00",
+      "Amount": "1055.00",
+      "% Amount": "0.02"
+    },
+    {
+      "Sr.": "50",
+      "Category": "Batik",
+      "Quantity": "4",
+      "Rate": "420.00",
+      "Amount": "1680.00",
+      "% Amount": "0.04"
+    },
+    {
+      "Sr.": "57",
+      "Category": "Braidal Broket",
+      "Quantity": "1",
+      "Rate": "1884.73",
+      "Amount": "1884.73",
+      "% Amount": "0.04"
+    },
+    {
+      "Sr.": "58",
+      "Category": "Braso",
+      "Quantity": "1",
+      "Rate": "498.76",
+      "Amount": "498.76",
+      "% Amount": "0.01"
+    },
+    {
+      "Sr.": "58",
+      "Category": "Braso",
+      "Quantity": "1",
+      "Rate": "1129.00",
+      "Amount": "1129.00",
+      "% Amount": "0.03"
+    },
+    {
+      "Sr.": "59",
+      "Category": "Brasso",
+      "Quantity": "1",
+      "Rate": "520.00",
+      "Amount": "520.00",
+      "% Amount": "0.01"
+    },
+    {
+      "Sr.": "63",
+      "Category": "Broket",
+      "Quantity": "1",
+      "Rate": "284.00",
+      "Amount": "284.00",
+      "% Amount": "0.01"
+    },
+    {
+      "Sr.": "64",
+      "Category": "Broket    .",
+      "Quantity": "2",
+      "Rate": "551.25",
+      "Amount": "1102.50",
+      "% Amount": "0.02"
+    },
+    {
+      "Sr.": "67",
+      "Category": "Broket Silk.",
+      "Quantity": "3",
+      "Rate": "399.00",
+      "Amount": "1197.00",
+      "% Amount": "0.03"
+    },
+    {
+      "Sr.": "68",
+      "Category": "Catlog Saree",
+      "Quantity": "2",
+      "Rate": "798.00",
+      "Amount": "1596.00",
+      "% Amount": "0.04"
+    },
+    {
+      "Sr.": "72",
+      "Category": "Chandrakor Paithani",
+      "Quantity": "1",
+      "Rate": "315.00",
+      "Amount": "315.00",
+      "% Amount": "0.01"
+    },
+    {
+      "Sr.": "72",
+      "Category": "Chandrakor Paithani",
+      "Quantity": "1",
+      "Rate": "640.52",
+      "Amount": "640.52",
+      "% Amount": "0.01"
+    },
+    {
+      "Sr.": "73",
+      "Category": "Chandrakor Paithani 1",
+      "Quantity": "2",
+      "Rate": "624.00",
+      "Amount": "1248.00",
+      "% Amount": "0.03"
+    },
+    {
+      "Sr.": "73",
+      "Category": "Chandrakor Paithani 1",
+      "Quantity": "1",
+      "Rate": "1296.77",
+      "Amount": "1296.77",
+      "% Amount": "0.03"
+    },
+    {
+      "Sr.": "74",
+      "Category": "Chandrakor Paithani.",
+      "Quantity": "2",
+      "Rate": "682.50",
+      "Amount": "1365.00",
+      "% Amount": "0.03"
+    },
+    {
+      "Sr.": "78",
+      "Category": "Checks Cotton",
+      "Quantity": "2",
+      "Rate": "334.17",
+      "Amount": "668.34",
+      "% Amount": "0.02"
+    },
+    {
+      "Sr.": "79",
+      "Category": "Chiffon",
+      "Quantity": "3",
+      "Rate": "242.00",
+      "Amount": "726.00",
+      "% Amount": "0.02"
+    },
+    {
+      "Sr.": "79",
+      "Category": "Chiffon",
+      "Quantity": "6",
+      "Rate": "315.00",
+      "Amount": "1890.00",
+      "% Amount": "0.04"
+    },
+    {
+      "Sr.": "79",
+      "Category": "Chiffon",
+      "Quantity": "3",
+      "Rate": "168.00",
+      "Amount": "504.00",
+      "% Amount": "0.01"
+    },
+    {
+      "Sr.": "80",
+      "Category": "Chiffon Laheriya",
+      "Quantity": "1",
+      "Rate": "551.29",
+      "Amount": "551.29",
+      "% Amount": "0.01"
+    },
+    {
+      "Sr.": "81",
+      "Category": "Chiffon.",
+      "Quantity": "3",
+      "Rate": "393.76",
+      "Amount": "1181.28",
+      "% Amount": "0.03"
+    },
+    {
+      "Sr.": "81",
+      "Category": "Chiffon.",
+      "Quantity": "1",
+      "Rate": "305.00",
+      "Amount": "305.00",
+      "% Amount": "0.01"
+    },
+    {
+      "Sr.": "83",
+      "Category": "Corsa Crape Silk",
+      "Quantity": "7",
+      "Rate": "192.15",
+      "Amount": "1345.05",
+      "% Amount": "0.03"
+    },
+    {
+      "Sr.": "85",
+      "Category": "Cottan Silk",
+      "Quantity": "1",
+      "Rate": "577.50",
+      "Amount": "577.50",
+      "% Amount": "0.01"
+    },
+    {
+      "Sr.": "85",
+      "Category": "Cottan Silk",
+      "Quantity": "1",
+      "Rate": "908.00",
+      "Amount": "908.00",
+      "% Amount": "0.02"
+    },
+    {
+      "Sr.": "85",
+      "Category": "Cottan Silk",
+      "Quantity": "1",
+      "Rate": "625.00",
+      "Amount": "625.00",
+      "% Amount": "0.01"
+    },
+    {
+      "Sr.": "85",
+      "Category": "Cottan Silk",
+      "Quantity": "1",
+      "Rate": "603.76",
+      "Amount": "603.76",
+      "% Amount": "0.01"
+    },
+    {
+      "Sr.": "85",
+      "Category": "Cottan Silk",
+      "Quantity": "2",
+      "Rate": "814.00",
+      "Amount": "1628.00",
+      "% Amount": "0.04"
+    },
+    {
+      "Sr.": "86",
+      "Category": "Cotton",
+      "Quantity": "1",
+      "Rate": "656.00",
+      "Amount": "656.00",
+      "% Amount": "0.01"
+    },
+    {
+      "Sr.": "86",
+      "Category": "Cotton",
+      "Quantity": "3",
+      "Rate": "441.02",
+      "Amount": "1323.06",
+      "% Amount": "0.03"
+    },
+    {
+      "Sr.": "86",
+      "Category": "Cotton",
+      "Quantity": "2",
+      "Rate": "666.68",
+      "Amount": "1333.36",
+      "% Amount": "0.03"
+    },
+    {
+      "Sr.": "87",
+      "Category": "Cotton   Silk",
+      "Quantity": "5",
+      "Rate": "336.00",
+      "Amount": "1680.00",
+      "% Amount": "0.04"
+    },
+    {
+      "Sr.": "87",
+      "Category": "Cotton   Silk",
+      "Quantity": "1",
+      "Rate": "367.50",
+      "Amount": "367.50",
+      "% Amount": "0.01"
+    },
+    {
+      "Sr.": "87",
+      "Category": "Cotton   Silk",
+      "Quantity": "1",
+      "Rate": "603.75",
+      "Amount": "603.75",
+      "% Amount": "0.01"
+    },
+    {
+      "Sr.": "87",
+      "Category": "Cotton   Silk",
+      "Quantity": "1",
+      "Rate": "582.75",
+      "Amount": "582.75",
+      "% Amount": "0.01"
+    },
+    {
+      "Sr.": "87",
+      "Category": "Cotton   Silk",
+      "Quantity": "1",
+      "Rate": "368.00",
+      "Amount": "368.00",
+      "% Amount": "0.01"
+    },
+    {
+      "Sr.": "87",
+      "Category": "Cotton   Silk",
+      "Quantity": "1",
+      "Rate": "367.51",
+      "Amount": "367.51",
+      "% Amount": "0.01"
+    },
+    {
+      "Sr.": "89",
+      "Category": "Cotton  Prints",
+      "Quantity": "1",
+      "Rate": "184.53",
+      "Amount": "184.53",
+      "% Amount": "0.00"
+    },
+    {
+      "Sr.": "91",
+      "Category": "Cotton Butty",
+      "Quantity": "1",
+      "Rate": "413.97",
+      "Amount": "413.97",
+      "% Amount": "0.01"
+    },
+    {
+      "Sr.": "92",
+      "Category": "Cotton Em",
+      "Quantity": "1",
+      "Rate": "369.09",
+      "Amount": "369.09",
+      "% Amount": "0.01"
+    },
+    {
+      "Sr.": "93",
+      "Category": "Cotton Paithani",
+      "Quantity": "1",
+      "Rate": "583.00",
+      "Amount": "583.00",
+      "% Amount": "0.01"
+    },
+    {
+      "Sr.": "94",
+      "Category": "Cotton Prints",
+      "Quantity": "2",
+      "Rate": "364.09",
+      "Amount": "728.18",
+      "% Amount": "0.02"
+    },
+    {
+      "Sr.": "95",
+      "Category": "Cotton Saree",
+      "Quantity": "1",
+      "Rate": "499.00",
+      "Amount": "499.00",
+      "% Amount": "0.01"
+    },
+    {
+      "Sr.": "95",
+      "Category": "Cotton Saree",
+      "Quantity": "1",
+      "Rate": "498.77",
+      "Amount": "498.77",
+      "% Amount": "0.01"
+    },
+    {
+      "Sr.": "96",
+      "Category": "Cotton Saree .",
+      "Quantity": "1",
+      "Rate": "893.00",
+      "Amount": "893.00",
+      "% Amount": "0.02"
+    },
+    {
+      "Sr.": "96",
+      "Category": "Cotton Saree .",
+      "Quantity": "2",
+      "Rate": "504.00",
+      "Amount": "1008.00",
+      "% Amount": "0.02"
+    },
+    {
+      "Sr.": "96",
+      "Category": "Cotton Saree .",
+      "Quantity": "1",
+      "Rate": "556.54",
+      "Amount": "556.54",
+      "% Amount": "0.01"
+    },
+    {
+      "Sr.": "97",
+      "Category": "Cotton Saree .,",
+      "Quantity": "1",
+      "Rate": "520.00",
+      "Amount": "520.00",
+      "% Amount": "0.01"
+    },
+    {
+      "Sr.": "98",
+      "Category": "Cotton Saree,",
+      "Quantity": "2",
+      "Rate": "347.00",
+      "Amount": "694.00",
+      "% Amount": "0.02"
+    },
+    {
+      "Sr.": "98",
+      "Category": "Cotton Saree,",
+      "Quantity": "1",
+      "Rate": "357.00",
+      "Amount": "357.00",
+      "% Amount": "0.01"
+    },
+    {
+      "Sr.": "99",
+      "Category": "Cotton Saree,,",
+      "Quantity": "1",
+      "Rate": "583.00",
+      "Amount": "583.00",
+      "% Amount": "0.01"
+    },
+    {
+      "Sr.": "100",
+      "Category": "Cotton Saree..",
+      "Quantity": "1",
+      "Rate": "588.00",
+      "Amount": "588.00",
+      "% Amount": "0.01"
+    },
+    {
+      "Sr.": "100",
+      "Category": "Cotton Saree..",
+      "Quantity": "5",
+      "Rate": "357.00",
+      "Amount": "1785.00",
+      "% Amount": "0.04"
+    },
+    {
+      "Sr.": "101",
+      "Category": "Cotton Silk",
+      "Quantity": "2",
+      "Rate": "524.00",
+      "Amount": "1048.00",
+      "% Amount": "0.02"
+    },
+    {
+      "Sr.": "101",
+      "Category": "Cotton Silk",
+      "Quantity": "1",
+      "Rate": "519.75",
+      "Amount": "519.75",
+      "% Amount": "0.01"
+    },
+    {
+      "Sr.": "101",
+      "Category": "Cotton Silk",
+      "Quantity": "1",
+      "Rate": "813.76",
+      "Amount": "813.76",
+      "% Amount": "0.02"
+    },
+    {
+      "Sr.": "101",
+      "Category": "Cotton Silk",
+      "Quantity": "1",
+      "Rate": "336.00",
+      "Amount": "336.00",
+      "% Amount": "0.01"
+    },
+    {
+      "Sr.": "101",
+      "Category": "Cotton Silk",
+      "Quantity": "2",
+      "Rate": "325.50",
+      "Amount": "651.00",
+      "% Amount": "0.01"
+    },
+    {
+      "Sr.": "101",
+      "Category": "Cotton Silk",
+      "Quantity": "1",
+      "Rate": "512.68",
+      "Amount": "512.68",
+      "% Amount": "0.01"
+    },
+    {
+      "Sr.": "103",
+      "Category": "Cotton Silk1",
+      "Quantity": "2",
+      "Rate": "551.25",
+      "Amount": "1102.50",
+      "% Amount": "0.02"
+    },
+    {
+      "Sr.": "104",
+      "Category": "Crape",
+      "Quantity": "3",
+      "Rate": "242.00",
+      "Amount": "726.00",
+      "% Amount": "0.02"
+    },
+    {
+      "Sr.": "106",
+      "Category": "Designer",
+      "Quantity": "1",
+      "Rate": "913.00",
+      "Amount": "913.00",
+      "% Amount": "0.02"
+    },
+    {
+      "Sr.": "112",
+      "Category": "Dharma Silk",
+      "Quantity": "1",
+      "Rate": "748.12",
+      "Amount": "748.12",
+      "% Amount": "0.02"
+    },
+    {
+      "Sr.": "113",
+      "Category": "Dharma Varm",
+      "Quantity": "1",
+      "Rate": "693.01",
+      "Amount": "693.01",
+      "% Amount": "0.02"
+    },
+    {
+      "Sr.": "115",
+      "Category": "Digital",
+      "Quantity": "2",
+      "Rate": "393.76",
+      "Amount": "787.52",
+      "% Amount": "0.02"
+    },
+    {
+      "Sr.": "115",
+      "Category": "Digital",
+      "Quantity": "1",
+      "Rate": "709.00",
+      "Amount": "709.00",
+      "% Amount": "0.02"
+    },
+    {
+      "Sr.": "116",
+      "Category": "Digital  Fancy",
+      "Quantity": "1",
+      "Rate": "577.50",
+      "Amount": "577.50",
+      "% Amount": "0.01"
+    },
+    {
+      "Sr.": "119",
+      "Category": "Digital Fancy",
+      "Quantity": "1",
+      "Rate": "431.00",
+      "Amount": "431.00",
+      "% Amount": "0.01"
+    },
+    {
+      "Sr.": "119",
+      "Category": "Digital Fancy",
+      "Quantity": "2",
+      "Rate": "430.50",
+      "Amount": "861.00",
+      "% Amount": "0.02"
+    },
+    {
+      "Sr.": "120",
+      "Category": "Digital Print",
+      "Quantity": "1",
+      "Rate": "708.76",
+      "Amount": "708.76",
+      "% Amount": "0.02"
+    },
+    {
+      "Sr.": "120",
+      "Category": "Digital Print",
+      "Quantity": "1",
+      "Rate": "472.50",
+      "Amount": "472.50",
+      "% Amount": "0.01"
+    },
+    {
+      "Sr.": "120",
+      "Category": "Digital Print",
+      "Quantity": "2",
+      "Rate": "347.00",
+      "Amount": "694.00",
+      "% Amount": "0.02"
+    },
+    {
+      "Sr.": "124",
+      "Category": "Digital..",
+      "Quantity": "1",
+      "Rate": "685.00",
+      "Amount": "685.00",
+      "% Amount": "0.02"
+    },
+    {
+      "Sr.": "125",
+      "Category": "Dola  Silk",
+      "Quantity": "1",
+      "Rate": "326.00",
+      "Amount": "326.00",
+      "% Amount": "0.01"
+    },
+    {
+      "Sr.": "126",
+      "Category": "Dola Buti",
+      "Quantity": "2",
+      "Rate": "829.50",
+      "Amount": "1659.00",
+      "% Amount": "0.04"
+    },
+    {
+      "Sr.": "127",
+      "Category": "Dola Silk",
+      "Quantity": "1",
+      "Rate": "735.00",
+      "Amount": "735.00",
+      "% Amount": "0.02"
+    },
+    {
+      "Sr.": "131",
+      "Category": "Fanc Y",
+      "Quantity": "1",
+      "Rate": "556.50",
+      "Amount": "556.50",
+      "% Amount": "0.01"
+    },
+    {
+      "Sr.": "131",
+      "Category": "Fanc Y",
+      "Quantity": "2",
+      "Rate": "603.75",
+      "Amount": "1207.50",
+      "% Amount": "0.03"
+    },
+    {
+      "Sr.": "131",
+      "Category": "Fanc Y",
+      "Quantity": "2",
+      "Rate": "703.50",
+      "Amount": "1407.00",
+      "% Amount": "0.03"
+    },
+    {
+      "Sr.": "131",
+      "Category": "Fanc Y",
+      "Quantity": "2",
+      "Rate": "635.25",
+      "Amount": "1270.50",
+      "% Amount": "0.03"
+    },
+    {
+      "Sr.": "132",
+      "Category": "Fancy",
+      "Quantity": "1",
+      "Rate": "1034.00",
+      "Amount": "1034.00",
+      "% Amount": "0.02"
+    },
+    {
+      "Sr.": "132",
+      "Category": "Fancy",
+      "Quantity": "1",
+      "Rate": "278.25",
+      "Amount": "278.25",
+      "% Amount": "0.01"
+    },
+    {
+      "Sr.": "132",
+      "Category": "Fancy",
+      "Quantity": "4",
+      "Rate": "231.00",
+      "Amount": "924.00",
+      "% Amount": "0.02"
+    },
+    {
+      "Sr.": "132",
+      "Category": "Fancy",
+      "Quantity": "1",
+      "Rate": "735.00",
+      "Amount": "735.00",
+      "% Amount": "0.02"
+    },
+    {
+      "Sr.": "132",
+      "Category": "Fancy",
+      "Quantity": "4",
+      "Rate": "367.50",
+      "Amount": "1470.00",
+      "% Amount": "0.03"
+    },
+    {
+      "Sr.": "132",
+      "Category": "Fancy",
+      "Quantity": "2",
+      "Rate": "761.25",
+      "Amount": "1522.50",
+      "% Amount": "0.03"
+    },
+    {
+      "Sr.": "134",
+      "Category": "Fancy  Silk",
+      "Quantity": "2",
+      "Rate": "341.00",
+      "Amount": "682.00",
+      "% Amount": "0.02"
+    },
+    {
+      "Sr.": "137",
+      "Category": "Fancy Net",
+      "Quantity": "1",
+      "Rate": "573.55",
+      "Amount": "573.55",
+      "% Amount": "0.01"
+    },
+    {
+      "Sr.": "138",
+      "Category": "Fancy Pattu Saree",
+      "Quantity": "1",
+      "Rate": "634.72",
+      "Amount": "634.72",
+      "% Amount": "0.01"
+    },
+    {
+      "Sr.": "139",
+      "Category": "Fancy Saree",
+      "Quantity": "1",
+      "Rate": "708.75",
+      "Amount": "708.75",
+      "% Amount": "0.02"
+    },
+    {
+      "Sr.": "140",
+      "Category": "Fancy Saree.",
+      "Quantity": "1",
+      "Rate": "247.00",
+      "Amount": "247.00",
+      "% Amount": "0.01"
+    },
+    {
+      "Sr.": "140",
+      "Category": "Fancy Saree.",
+      "Quantity": "1",
+      "Rate": "278.00",
+      "Amount": "278.00",
+      "% Amount": "0.01"
+    },
+    {
+      "Sr.": "140",
+      "Category": "Fancy Saree.",
+      "Quantity": "1",
+      "Rate": "404.00",
+      "Amount": "404.00",
+      "% Amount": "0.01"
+    },
+    {
+      "Sr.": "141",
+      "Category": "Fancy Silk",
+      "Quantity": "1",
+      "Rate": "252.00",
+      "Amount": "252.00",
+      "% Amount": "0.01"
+    },
+    {
+      "Sr.": "141",
+      "Category": "Fancy Silk",
+      "Quantity": "1",
+      "Rate": "273.01",
+      "Amount": "273.01",
+      "% Amount": "0.01"
+    },
+    {
+      "Sr.": "141",
+      "Category": "Fancy Silk",
+      "Quantity": "1",
+      "Rate": "965.00",
+      "Amount": "965.00",
+      "% Amount": "0.02"
+    },
+    {
+      "Sr.": "142",
+      "Category": "Fancy Silk ..",
+      "Quantity": "1",
+      "Rate": "1013.26",
+      "Amount": "1013.26",
+      "% Amount": "0.02"
+    },
+    {
+      "Sr.": "142",
+      "Category": "Fancy Silk ..",
+      "Quantity": "1",
+      "Rate": "819.00",
+      "Amount": "819.00",
+      "% Amount": "0.02"
+    },
+    {
+      "Sr.": "144",
+      "Category": "Fancy.",
+      "Quantity": "2",
+      "Rate": "630.00",
+      "Amount": "1260.00",
+      "% Amount": "0.03"
+    },
+    {
+      "Sr.": "147",
+      "Category": "Ghadwal",
+      "Quantity": "2",
+      "Rate": "714.00",
+      "Amount": "1428.00",
+      "% Amount": "0.03"
+    },
+    {
+      "Sr.": "150",
+      "Category": "Ghadwal Em",
+      "Quantity": "3",
+      "Rate": "324.19",
+      "Amount": "972.57",
+      "% Amount": "0.02"
+    },
+    {
+      "Sr.": "150",
+      "Category": "Ghadwal Em",
+      "Quantity": "2",
+      "Rate": "503.73",
+      "Amount": "1007.46",
+      "% Amount": "0.02"
+    },
+    {
+      "Sr.": "152",
+      "Category": "Ghadwal.",
+      "Quantity": "1",
+      "Rate": "732.38",
+      "Amount": "732.38",
+      "% Amount": "0.02"
+    },
+    {
+      "Sr.": "154",
+      "Category": "Hand Work B/P",
+      "Quantity": "1",
+      "Rate": "1496.25",
+      "Amount": "1496.25",
+      "% Amount": "0.03"
+    },
+    {
+      "Sr.": "157",
+      "Category": "Induri Border",
+      "Quantity": "1",
+      "Rate": "383.00",
+      "Amount": "383.00",
+      "% Amount": "0.01"
+    },
+    {
+      "Sr.": "158",
+      "Category": "Ircal",
+      "Quantity": "1",
+      "Rate": "735.00",
+      "Amount": "735.00",
+      "% Amount": "0.02"
+    },
+    {
+      "Sr.": "159",
+      "Category": "Irkal",
+      "Quantity": "1",
+      "Rate": "777.00",
+      "Amount": "777.00",
+      "% Amount": "0.02"
+    },
+    {
+      "Sr.": "160",
+      "Category": "Jal",
+      "Quantity": "2",
+      "Rate": "336.00",
+      "Amount": "672.00",
+      "% Amount": "0.02"
+    },
+    {
+      "Sr.": "160",
+      "Category": "Jal",
+      "Quantity": "5",
+      "Rate": "368.00",
+      "Amount": "1840.00",
+      "% Amount": "0.04"
+    },
+    {
+      "Sr.": "161",
+      "Category": "Jal Work",
+      "Quantity": "2",
+      "Rate": "787.50",
+      "Amount": "1575.00",
+      "% Amount": "0.04"
+    },
+    {
+      "Sr.": "166",
+      "Category": "Jari",
+      "Quantity": "1",
+      "Rate": "1102.52",
+      "Amount": "1102.52",
+      "% Amount": "0.02"
+    },
+    {
+      "Sr.": "171",
+      "Category": "Kadiyal Silk",
+      "Quantity": "1",
+      "Rate": "1260.00",
+      "Amount": "1260.00",
+      "% Amount": "0.03"
+    },
+    {
+      "Sr.": "172",
+      "Category": "Kalmkari",
+      "Quantity": "6",
+      "Rate": "274.00",
+      "Amount": "1644.00",
+      "% Amount": "0.04"
+    },
+    {
+      "Sr.": "173",
+      "Category": "Kalyani",
+      "Quantity": "2",
+      "Rate": "693.00",
+      "Amount": "1386.00",
+      "% Amount": "0.03"
+    },
+    {
+      "Sr.": "174",
+      "Category": "Kanjivaram",
+      "Quantity": "1",
+      "Rate": "1045.00",
+      "Amount": "1045.00",
+      "% Amount": "0.02"
+    },
+    {
+      "Sr.": "174",
+      "Category": "Kanjivaram",
+      "Quantity": "1",
+      "Rate": "1354.51",
+      "Amount": "1354.51",
+      "% Amount": "0.03"
+    },
+    {
+      "Sr.": "174",
+      "Category": "Kanjivaram",
+      "Quantity": "2",
+      "Rate": "919.00",
+      "Amount": "1838.00",
+      "% Amount": "0.04"
+    },
+    {
+      "Sr.": "174",
+      "Category": "Kanjivaram",
+      "Quantity": "1",
+      "Rate": "573.57",
+      "Amount": "573.57",
+      "% Amount": "0.01"
+    },
+    {
+      "Sr.": "175",
+      "Category": "Kanjivarm",
+      "Quantity": "2",
+      "Rate": "549.00",
+      "Amount": "1098.00",
+      "% Amount": "0.02"
+    },
+    {
+      "Sr.": "175",
+      "Category": "Kanjivarm",
+      "Quantity": "2",
+      "Rate": "673.30",
+      "Amount": "1346.60",
+      "% Amount": "0.03"
+    },
+    {
+      "Sr.": "176",
+      "Category": "Kanjiwarm",
+      "Quantity": "1",
+      "Rate": "862.00",
+      "Amount": "862.00",
+      "% Amount": "0.02"
+    },
+    {
+      "Sr.": "176",
+      "Category": "Kanjiwarm",
+      "Quantity": "1",
+      "Rate": "1392.00",
+      "Amount": "1392.00",
+      "% Amount": "0.03"
+    },
+    {
+      "Sr.": "176",
+      "Category": "Kanjiwarm",
+      "Quantity": "2",
+      "Rate": "504.00",
+      "Amount": "1008.00",
+      "% Amount": "0.02"
+    },
+    {
+      "Sr.": "176",
+      "Category": "Kanjiwarm",
+      "Quantity": "1",
+      "Rate": "656.27",
+      "Amount": "656.27",
+      "% Amount": "0.01"
+    },
+    {
+      "Sr.": "176",
+      "Category": "Kanjiwarm",
+      "Quantity": "3",
+      "Rate": "278.00",
+      "Amount": "834.00",
+      "% Amount": "0.02"
+    },
+    {
+      "Sr.": "178",
+      "Category": "Kerla",
+      "Quantity": "1",
+      "Rate": "629.98",
+      "Amount": "629.98",
+      "% Amount": "0.01"
+    },
+    {
+      "Sr.": "179",
+      "Category": "Kerla Cotton",
+      "Quantity": "2",
+      "Rate": "299.26",
+      "Amount": "598.52",
+      "% Amount": "0.01"
+    },
+    {
+      "Sr.": "182",
+      "Category": "Kochampali Silk",
+      "Quantity": "1",
+      "Rate": "599.00",
+      "Amount": "599.00",
+      "% Amount": "0.01"
+    },
+    {
+      "Sr.": "186",
+      "Category": "Linan",
+      "Quantity": "1",
+      "Rate": "378.00",
+      "Amount": "378.00",
+      "% Amount": "0.01"
+    },
+    {
+      "Sr.": "186",
+      "Category": "Linan",
+      "Quantity": "2",
+      "Rate": "368.00",
+      "Amount": "736.00",
+      "% Amount": "0.02"
+    },
+    {
+      "Sr.": "188",
+      "Category": "Linan.",
+      "Quantity": "1",
+      "Rate": "773.00",
+      "Amount": "773.00",
+      "% Amount": "0.02"
+    },
+    {
+      "Sr.": "189",
+      "Category": "Linen",
+      "Quantity": "1",
+      "Rate": "513.70",
+      "Amount": "513.70",
+      "% Amount": "0.01"
+    },
+    {
+      "Sr.": "189",
+      "Category": "Linen",
+      "Quantity": "6",
+      "Rate": "220.50",
+      "Amount": "1323.00",
+      "% Amount": "0.03"
+    },
+    {
+      "Sr.": "190",
+      "Category": "Linen Cotten",
+      "Quantity": "1",
+      "Rate": "378.00",
+      "Amount": "378.00",
+      "% Amount": "0.01"
+    },
+    {
+      "Sr.": "196",
+      "Category": "Malai Silk",
+      "Quantity": "1",
+      "Rate": "283.00",
+      "Amount": "283.00",
+      "% Amount": "0.01"
+    },
+    {
+      "Sr.": "197",
+      "Category": "Mau  Silk",
+      "Quantity": "2",
+      "Rate": "708.74",
+      "Amount": "1417.48",
+      "% Amount": "0.03"
+    },
+    {
+      "Sr.": "197",
+      "Category": "Mau  Silk",
+      "Quantity": "2",
+      "Rate": "940.00",
+      "Amount": "1880.00",
+      "% Amount": "0.04"
+    },
+    {
+      "Sr.": "197",
+      "Category": "Mau  Silk",
+      "Quantity": "1",
+      "Rate": "761.00",
+      "Amount": "761.00",
+      "% Amount": "0.02"
+    },
+    {
+      "Sr.": "197",
+      "Category": "Mau  Silk",
+      "Quantity": "2",
+      "Rate": "488.00",
+      "Amount": "976.00",
+      "% Amount": "0.02"
+    },
+    {
+      "Sr.": "197",
+      "Category": "Mau  Silk",
+      "Quantity": "1",
+      "Rate": "467.00",
+      "Amount": "467.00",
+      "% Amount": "0.01"
+    },
+    {
+      "Sr.": "197",
+      "Category": "Mau  Silk",
+      "Quantity": "1",
+      "Rate": "315.00",
+      "Amount": "315.00",
+      "% Amount": "0.01"
+    },
+    {
+      "Sr.": "199",
+      "Category": "Mau Silk",
+      "Quantity": "1",
+      "Rate": "624.76",
+      "Amount": "624.76",
+      "% Amount": "0.01"
+    },
+    {
+      "Sr.": "199",
+      "Category": "Mau Silk",
+      "Quantity": "2",
+      "Rate": "708.74",
+      "Amount": "1417.48",
+      "% Amount": "0.03"
+    },
+    {
+      "Sr.": "199",
+      "Category": "Mau Silk",
+      "Quantity": "1",
+      "Rate": "887.00",
+      "Amount": "887.00",
+      "% Amount": "0.02"
+    },
+    {
+      "Sr.": "199",
+      "Category": "Mau Silk",
+      "Quantity": "2",
+      "Rate": "898.00",
+      "Amount": "1796.00",
+      "% Amount": "0.04"
+    },
+    {
+      "Sr.": "202",
+      "Category": "Maysure Silk",
+      "Quantity": "1",
+      "Rate": "776.00",
+      "Amount": "776.00",
+      "% Amount": "0.02"
+    },
+    {
+      "Sr.": "204",
+      "Category": "Moss Crape",
+      "Quantity": "6",
+      "Rate": "215.25",
+      "Amount": "1291.50",
+      "% Amount": "0.03"
+    },
+    {
+      "Sr.": "205",
+      "Category": "Mul Cottan",
+      "Quantity": "3",
+      "Rate": "625.00",
+      "Amount": "1875.00",
+      "% Amount": "0.04"
+    },
+    {
+      "Sr.": "207",
+      "Category": "Muniya Paithani",
+      "Quantity": "2",
+      "Rate": "648.00",
+      "Amount": "1296.00",
+      "% Amount": "0.03"
+    },
+    {
+      "Sr.": "207",
+      "Category": "Muniya Paithani",
+      "Quantity": "2",
+      "Rate": "648.37",
+      "Amount": "1296.74",
+      "% Amount": "0.03"
+    },
+    {
+      "Sr.": "208",
+      "Category": "Narayan Peth",
+      "Quantity": "1",
+      "Rate": "540.75",
+      "Amount": "540.75",
+      "% Amount": "0.01"
+    },
+    {
+      "Sr.": "208",
+      "Category": "Narayan Peth",
+      "Quantity": "1",
+      "Rate": "688.00",
+      "Amount": "688.00",
+      "% Amount": "0.02"
+    },
+    {
+      "Sr.": "208",
+      "Category": "Narayan Peth",
+      "Quantity": "1",
+      "Rate": "368.00",
+      "Amount": "368.00",
+      "% Amount": "0.01"
+    },
+    {
+      "Sr.": "211",
+      "Category": "Nath Paithani",
+      "Quantity": "2",
+      "Rate": "514.50",
+      "Amount": "1029.00",
+      "% Amount": "0.02"
+    },
+    {
+      "Sr.": "211",
+      "Category": "Nath Paithani",
+      "Quantity": "1",
+      "Rate": "1044.76",
+      "Amount": "1044.76",
+      "% Amount": "0.02"
+    },
+    {
+      "Sr.": "213",
+      "Category": "Nauvari Printed",
+      "Quantity": "1",
+      "Rate": "550.19",
+      "Amount": "550.19",
+      "% Amount": "0.01"
+    },
+    {
+      "Sr.": "213",
+      "Category": "Nauvari Printed",
+      "Quantity": "1",
+      "Rate": "550.00",
+      "Amount": "550.00",
+      "% Amount": "0.01"
+    },
+    {
+      "Sr.": "216",
+      "Category": "Navvari Printed",
+      "Quantity": "3",
+      "Rate": "550.21",
+      "Amount": "1650.63",
+      "% Amount": "0.04"
+    },
+    {
+      "Sr.": "221",
+      "Category": "Paithani",
+      "Quantity": "1",
+      "Rate": "1228.51",
+      "Amount": "1228.51",
+      "% Amount": "0.03"
+    },
+    {
+      "Sr.": "221",
+      "Category": "Paithani",
+      "Quantity": "1",
+      "Rate": "1543.52",
+      "Amount": "1543.52",
+      "% Amount": "0.03"
+    },
+    {
+      "Sr.": "221",
+      "Category": "Paithani",
+      "Quantity": "1",
+      "Rate": "1417.50",
+      "Amount": "1417.50",
+      "% Amount": "0.03"
+    },
+    {
+      "Sr.": "221",
+      "Category": "Paithani",
+      "Quantity": "1",
+      "Rate": "1575.00",
+      "Amount": "1575.00",
+      "% Amount": "0.04"
+    },
+    {
+      "Sr.": "221",
+      "Category": "Paithani",
+      "Quantity": "1",
+      "Rate": "1025.00",
+      "Amount": "1025.00",
+      "% Amount": "0.02"
+    },
+    {
+      "Sr.": "221",
+      "Category": "Paithani",
+      "Quantity": "1",
+      "Rate": "1375.00",
+      "Amount": "1375.00",
+      "% Amount": "0.03"
+    },
+    {
+      "Sr.": "221",
+      "Category": "Paithani",
+      "Quantity": "1",
+      "Rate": "1845.00",
+      "Amount": "1845.00",
+      "% Amount": "0.04"
+    },
+    {
+      "Sr.": "221",
+      "Category": "Paithani",
+      "Quantity": "2",
+      "Rate": "748.12",
+      "Amount": "1496.24",
+      "% Amount": "0.03"
+    },
+    {
+      "Sr.": "222",
+      "Category": "Paithani  Border",
+      "Quantity": "1",
+      "Rate": "389.00",
+      "Amount": "389.00",
+      "% Amount": "0.01"
+    },
+    {
+      "Sr.": "224",
+      "Category": "Paithani Border",
+      "Quantity": "1",
+      "Rate": "430.50",
+      "Amount": "430.50",
+      "% Amount": "0.01"
+    },
+    {
+      "Sr.": "224",
+      "Category": "Paithani Border",
+      "Quantity": "2",
+      "Rate": "435.78",
+      "Amount": "871.56",
+      "% Amount": "0.02"
+    },
+    {
+      "Sr.": "224",
+      "Category": "Paithani Border",
+      "Quantity": "1",
+      "Rate": "840.00",
+      "Amount": "840.00",
+      "% Amount": "0.02"
+    },
+    {
+      "Sr.": "224",
+      "Category": "Paithani Border",
+      "Quantity": "2",
+      "Rate": "719.00",
+      "Amount": "1438.00",
+      "% Amount": "0.03"
+    },
+    {
+      "Sr.": "227",
+      "Category": "Paithani,",
+      "Quantity": "1",
+      "Rate": "399.00",
+      "Amount": "399.00",
+      "% Amount": "0.01"
+    },
+    {
+      "Sr.": "227",
+      "Category": "Paithani,",
+      "Quantity": "2",
+      "Rate": "262.50",
+      "Amount": "525.00",
+      "% Amount": "0.01"
+    },
+    {
+      "Sr.": "227",
+      "Category": "Paithani,",
+      "Quantity": "4",
+      "Rate": "368.00",
+      "Amount": "1472.00",
+      "% Amount": "0.03"
+    },
+    {
+      "Sr.": "227",
+      "Category": "Paithani,",
+      "Quantity": "1",
+      "Rate": "1102.51",
+      "Amount": "1102.51",
+      "% Amount": "0.02"
+    },
+    {
+      "Sr.": "227",
+      "Category": "Paithani,",
+      "Quantity": "4",
+      "Rate": "393.75",
+      "Amount": "1575.00",
+      "% Amount": "0.04"
+    },
+    {
+      "Sr.": "230",
+      "Category": "Paithani.. ..",
+      "Quantity": "7",
+      "Rate": "273.00",
+      "Amount": "1911.00",
+      "% Amount": "0.04"
+    },
+    {
+      "Sr.": "231",
+      "Category": "Paithani...",
+      "Quantity": "7",
+      "Rate": "199.50",
+      "Amount": "1396.50",
+      "% Amount": "0.03"
+    },
+    {
+      "Sr.": "233",
+      "Category": "Party Wear",
+      "Quantity": "1",
+      "Rate": "1459.51",
+      "Amount": "1459.51",
+      "% Amount": "0.03"
+    },
+    {
+      "Sr.": "233",
+      "Category": "Party Wear",
+      "Quantity": "1",
+      "Rate": "1564.51",
+      "Amount": "1564.51",
+      "% Amount": "0.04"
+    },
+    {
+      "Sr.": "235",
+      "Category": "Patola",
+      "Quantity": "1",
+      "Rate": "788.00",
+      "Amount": "788.00",
+      "% Amount": "0.02"
+    },
+    {
+      "Sr.": "235",
+      "Category": "Patola",
+      "Quantity": "1",
+      "Rate": "1392.00",
+      "Amount": "1392.00",
+      "% Amount": "0.03"
+    },
+    {
+      "Sr.": "237",
+      "Category": "Patola Silk",
+      "Quantity": "4",
+      "Rate": "304.50",
+      "Amount": "1218.00",
+      "% Amount": "0.03"
+    },
+    {
+      "Sr.": "239",
+      "Category": "Patola..",
+      "Quantity": "1",
+      "Rate": "1418.00",
+      "Amount": "1418.00",
+      "% Amount": "0.03"
+    },
+    {
+      "Sr.": "240",
+      "Category": "Patu",
+      "Quantity": "1",
+      "Rate": "488.26",
+      "Amount": "488.26",
+      "% Amount": "0.01"
+    },
+    {
+      "Sr.": "241",
+      "Category": "Peshwai",
+      "Quantity": "1",
+      "Rate": "635.25",
+      "Amount": "635.25",
+      "% Amount": "0.01"
+    },
+    {
+      "Sr.": "242",
+      "Category": "Peshwai Border",
+      "Quantity": "4",
+      "Rate": "420.00",
+      "Amount": "1680.00",
+      "% Amount": "0.04"
+    },
+    {
+      "Sr.": "244",
+      "Category": "Pethani",
+      "Quantity": "1",
+      "Rate": "1129.26",
+      "Amount": "1129.26",
+      "% Amount": "0.03"
+    },
+    {
+      "Sr.": "245",
+      "Category": "Pethani Silk",
+      "Quantity": "2",
+      "Rate": "367.51",
+      "Amount": "735.02",
+      "% Amount": "0.02"
+    },
+    {
+      "Sr.": "245",
+      "Category": "Pethani Silk",
+      "Quantity": "2",
+      "Rate": "368.00",
+      "Amount": "736.00",
+      "% Amount": "0.02"
+    },
+    {
+      "Sr.": "245",
+      "Category": "Pethani Silk",
+      "Quantity": "1",
+      "Rate": "393.75",
+      "Amount": "393.75",
+      "% Amount": "0.01"
+    },
+    {
+      "Sr.": "245",
+      "Category": "Pethani Silk",
+      "Quantity": "1",
+      "Rate": "372.75",
+      "Amount": "372.75",
+      "% Amount": "0.01"
+    },
+    {
+      "Sr.": "245",
+      "Category": "Pethani Silk",
+      "Quantity": "-1",
+      "Rate": "1313.00",
+      "Amount": "-1313.00",
+      "% Amount": "-0.03"
+    },
+    {
+      "Sr.": "247",
+      "Category": "Plain Cotton",
+      "Quantity": "3",
+      "Rate": "314.18",
+      "Amount": "942.54",
+      "% Amount": "0.02"
+    },
+    {
+      "Sr.": "248",
+      "Category": "Plain.",
+      "Quantity": "5",
+      "Rate": "273.00",
+      "Amount": "1365.00",
+      "% Amount": "0.03"
+    },
+    {
+      "Sr.": "248",
+      "Category": "Plain.",
+      "Quantity": "2",
+      "Rate": "262.50",
+      "Amount": "525.00",
+      "% Amount": "0.01"
+    },
+    {
+      "Sr.": "249",
+      "Category": "Printed",
+      "Quantity": "1",
+      "Rate": "357.00",
+      "Amount": "357.00",
+      "% Amount": "0.01"
+    },
+    {
+      "Sr.": "249",
+      "Category": "Printed",
+      "Quantity": "1",
+      "Rate": "367.50",
+      "Amount": "367.50",
+      "% Amount": "0.01"
+    },
+    {
+      "Sr.": "249",
+      "Category": "Printed",
+      "Quantity": "3",
+      "Rate": "357.00",
+      "Amount": "1071.00",
+      "% Amount": "0.02"
+    },
+    {
+      "Sr.": "249",
+      "Category": "Printed",
+      "Quantity": "4",
+      "Rate": "367.50",
+      "Amount": "1470.00",
+      "% Amount": "0.03"
+    },
+    {
+      "Sr.": "249",
+      "Category": "Printed",
+      "Quantity": "1",
+      "Rate": "341.26",
+      "Amount": "341.26",
+      "% Amount": "0.01"
+    },
+    {
+      "Sr.": "249",
+      "Category": "Printed",
+      "Quantity": "1",
+      "Rate": "830.00",
+      "Amount": "830.00",
+      "% Amount": "0.02"
+    },
+    {
+      "Sr.": "249",
+      "Category": "Printed",
+      "Quantity": "2",
+      "Rate": "236.25",
+      "Amount": "472.50",
+      "% Amount": "0.01"
+    },
+    {
+      "Sr.": "249",
+      "Category": "Printed",
+      "Quantity": "10",
+      "Rate": "152.25",
+      "Amount": "1522.50",
+      "% Amount": "0.03"
+    },
+    {
+      "Sr.": "249",
+      "Category": "Printed",
+      "Quantity": "5",
+      "Rate": "315.00",
+      "Amount": "1575.00",
+      "% Amount": "0.04"
+    },
+    {
+      "Sr.": "249",
+      "Category": "Printed",
+      "Quantity": "6",
+      "Rate": "310.00",
+      "Amount": "1860.00",
+      "% Amount": "0.04"
+    },
+    {
+      "Sr.": "249",
+      "Category": "Printed",
+      "Quantity": "1",
+      "Rate": "273.00",
+      "Amount": "273.00",
+      "% Amount": "0.01"
+    },
+    {
+      "Sr.": "249",
+      "Category": "Printed",
+      "Quantity": "2",
+      "Rate": "341.26",
+      "Amount": "682.52",
+      "% Amount": "0.02"
+    },
+    {
+      "Sr.": "250",
+      "Category": "Printed ..",
+      "Quantity": "1",
+      "Rate": "179.00",
+      "Amount": "179.00",
+      "% Amount": "0.00"
+    },
+    {
+      "Sr.": "251",
+      "Category": "Printed 9 Yrd",
+      "Quantity": "2",
+      "Rate": "320.26",
+      "Amount": "640.52",
+      "% Amount": "0.01"
+    },
+    {
+      "Sr.": "252",
+      "Category": "Printed Art Silk",
+      "Quantity": "3",
+      "Rate": "231.00",
+      "Amount": "693.00",
+      "% Amount": "0.02"
+    },
+    {
+      "Sr.": "252",
+      "Category": "Printed Art Silk",
+      "Quantity": "1",
+      "Rate": "564.00",
+      "Amount": "564.00",
+      "% Amount": "0.01"
+    },
+    {
+      "Sr.": "252",
+      "Category": "Printed Art Silk",
+      "Quantity": "3",
+      "Rate": "252.00",
+      "Amount": "756.00",
+      "% Amount": "0.02"
+    },
+    {
+      "Sr.": "254",
+      "Category": "Printed Border",
+      "Quantity": "1",
+      "Rate": "494.00",
+      "Amount": "494.00",
+      "% Amount": "0.01"
+    },
+    {
+      "Sr.": "254",
+      "Category": "Printed Border",
+      "Quantity": "1",
+      "Rate": "747.00",
+      "Amount": "747.00",
+      "% Amount": "0.02"
+    },
+    {
+      "Sr.": "254",
+      "Category": "Printed Border",
+      "Quantity": "3",
+      "Rate": "574.00",
+      "Amount": "1722.00",
+      "% Amount": "0.04"
+    },
+    {
+      "Sr.": "254",
+      "Category": "Printed Border",
+      "Quantity": "2",
+      "Rate": "685.00",
+      "Amount": "1370.00",
+      "% Amount": "0.03"
+    },
+    {
+      "Sr.": "254",
+      "Category": "Printed Border",
+      "Quantity": "1",
+      "Rate": "549.00",
+      "Amount": "549.00",
+      "% Amount": "0.01"
+    },
+    {
+      "Sr.": "254",
+      "Category": "Printed Border",
+      "Quantity": "1",
+      "Rate": "723.00",
+      "Amount": "723.00",
+      "% Amount": "0.02"
+    },
+    {
+      "Sr.": "254",
+      "Category": "Printed Border",
+      "Quantity": "2",
+      "Rate": "409.50",
+      "Amount": "819.00",
+      "% Amount": "0.02"
+    },
+    {
+      "Sr.": "254",
+      "Category": "Printed Border",
+      "Quantity": "1",
+      "Rate": "199.50",
+      "Amount": "199.50",
+      "% Amount": "0.00"
+    },
+    {
+      "Sr.": "255",
+      "Category": "Printed Border 2",
+      "Quantity": "1",
+      "Rate": "458.00",
+      "Amount": "458.00",
+      "% Amount": "0.01"
+    },
+    {
+      "Sr.": "255",
+      "Category": "Printed Border 2",
+      "Quantity": "2",
+      "Rate": "416.00",
+      "Amount": "832.00",
+      "% Amount": "0.02"
+    },
+    {
+      "Sr.": "255",
+      "Category": "Printed Border 2",
+      "Quantity": "3",
+      "Rate": "415.80",
+      "Amount": "1247.40",
+      "% Amount": "0.03"
+    },
+    {
+      "Sr.": "256",
+      "Category": "Printed Cotton",
+      "Quantity": "1",
+      "Rate": "238.00",
+      "Amount": "238.00",
+      "% Amount": "0.01"
+    },
+    {
+      "Sr.": "256",
+      "Category": "Printed Cotton",
+      "Quantity": "2",
+      "Rate": "210.00",
+      "Amount": "420.00",
+      "% Amount": "0.01"
+    },
+    {
+      "Sr.": "256",
+      "Category": "Printed Cotton",
+      "Quantity": "2",
+      "Rate": "263.00",
+      "Amount": "526.00",
+      "% Amount": "0.01"
+    },
+    {
+      "Sr.": "256",
+      "Category": "Printed Cotton",
+      "Quantity": "1",
+      "Rate": "315.00",
+      "Amount": "315.00",
+      "% Amount": "0.01"
+    },
+    {
+      "Sr.": "258",
+      "Category": "Printed Designer",
+      "Quantity": "1",
+      "Rate": "823.00",
+      "Amount": "823.00",
+      "% Amount": "0.02"
+    },
+    {
+      "Sr.": "258",
+      "Category": "Printed Designer",
+      "Quantity": "2",
+      "Rate": "623.00",
+      "Amount": "1246.00",
+      "% Amount": "0.03"
+    },
+    {
+      "Sr.": "260",
+      "Category": "Printed Silk",
+      "Quantity": "1",
+      "Rate": "310.00",
+      "Amount": "310.00",
+      "% Amount": "0.01"
+    },
+    {
+      "Sr.": "260",
+      "Category": "Printed Silk",
+      "Quantity": "1",
+      "Rate": "367.50",
+      "Amount": "367.50",
+      "% Amount": "0.01"
+    },
+    {
+      "Sr.": "260",
+      "Category": "Printed Silk",
+      "Quantity": "1",
+      "Rate": "425.25",
+      "Amount": "425.25",
+      "% Amount": "0.01"
+    },
+    {
+      "Sr.": "260",
+      "Category": "Printed Silk",
+      "Quantity": "5",
+      "Rate": "378.00",
+      "Amount": "1890.00",
+      "% Amount": "0.04"
+    },
+    {
+      "Sr.": "260",
+      "Category": "Printed Silk",
+      "Quantity": "1",
+      "Rate": "352.00",
+      "Amount": "352.00",
+      "% Amount": "0.01"
+    },
+    {
+      "Sr.": "260",
+      "Category": "Printed Silk",
+      "Quantity": "8",
+      "Rate": "183.75",
+      "Amount": "1470.00",
+      "% Amount": "0.03"
+    },
+    {
+      "Sr.": "260",
+      "Category": "Printed Silk",
+      "Quantity": "1",
+      "Rate": "325.50",
+      "Amount": "325.50",
+      "% Amount": "0.01"
+    },
+    {
+      "Sr.": "260",
+      "Category": "Printed Silk",
+      "Quantity": "5",
+      "Rate": "331.00",
+      "Amount": "1655.00",
+      "% Amount": "0.04"
+    },
+    {
+      "Sr.": "260",
+      "Category": "Printed Silk",
+      "Quantity": "2",
+      "Rate": "539.00",
+      "Amount": "1078.00",
+      "% Amount": "0.02"
+    },
+    {
+      "Sr.": "261",
+      "Category": "Pure Silk",
+      "Quantity": "2",
+      "Rate": "473.00",
+      "Amount": "946.00",
+      "% Amount": "0.02"
+    },
+    {
+      "Sr.": "263",
+      "Category": "Raw Silk",
+      "Quantity": "3",
+      "Rate": "582.76",
+      "Amount": "1748.28",
+      "% Amount": "0.04"
+    },
+    {
+      "Sr.": "263",
+      "Category": "Raw Silk",
+      "Quantity": "7",
+      "Rate": "273.00",
+      "Amount": "1911.00",
+      "% Amount": "0.04"
+    },
+    {
+      "Sr.": "263",
+      "Category": "Raw Silk",
+      "Quantity": "2",
+      "Rate": "351.75",
+      "Amount": "703.50",
+      "% Amount": "0.02"
+    },
+    {
+      "Sr.": "264",
+      "Category": "Raw Silk .",
+      "Quantity": "1",
+      "Rate": "577.50",
+      "Amount": "577.50",
+      "% Amount": "0.01"
+    },
+    {
+      "Sr.": "265",
+      "Category": "Rose Gold Broket",
+      "Quantity": "2",
+      "Rate": "341.25",
+      "Amount": "682.50",
+      "% Amount": "0.02"
+    },
+    {
+      "Sr.": "267",
+      "Category": "Sambalpuri Cotten",
+      "Quantity": "2",
+      "Rate": "924.00",
+      "Amount": "1848.00",
+      "% Amount": "0.04"
+    },
+    {
+      "Sr.": "268",
+      "Category": "Sambal-Puri Cotton",
+      "Quantity": "2",
+      "Rate": "777.00",
+      "Amount": "1554.00",
+      "% Amount": "0.04"
+    },
+    {
+      "Sr.": "271",
+      "Category": "Satin",
+      "Quantity": "3",
+      "Rate": "630.00",
+      "Amount": "1890.00",
+      "% Amount": "0.04"
+    },
+    {
+      "Sr.": "272",
+      "Category": "Saton",
+      "Quantity": "2",
+      "Rate": "546.00",
+      "Amount": "1092.00",
+      "% Amount": "0.02"
+    },
+    {
+      "Sr.": "274",
+      "Category": "Semi",
+      "Quantity": "1",
+      "Rate": "273.00",
+      "Amount": "273.00",
+      "% Amount": "0.01"
+    },
+    {
+      "Sr.": "276",
+      "Category": "Semi Kanjivarm",
+      "Quantity": "1",
+      "Rate": "431.00",
+      "Amount": "431.00",
+      "% Amount": "0.01"
+    },
+    {
+      "Sr.": "277",
+      "Category": "Semi Kanjiwarm",
+      "Quantity": "1",
+      "Rate": "659.00",
+      "Amount": "659.00",
+      "% Amount": "0.01"
+    },
+    {
+      "Sr.": "279",
+      "Category": "Semi Paithani",
+      "Quantity": "1",
+      "Rate": "367.50",
+      "Amount": "367.50",
+      "% Amount": "0.01"
+    },
+    {
+      "Sr.": "279",
+      "Category": "Semi Paithani",
+      "Quantity": "5",
+      "Rate": "368.00",
+      "Amount": "1840.00",
+      "% Amount": "0.04"
+    },
+    {
+      "Sr.": "280",
+      "Category": "Shallu",
+      "Quantity": "1",
+      "Rate": "934.51",
+      "Amount": "934.51",
+      "% Amount": "0.02"
+    },
+    {
+      "Sr.": "280",
+      "Category": "Shallu",
+      "Quantity": "1",
+      "Rate": "1354.51",
+      "Amount": "1354.51",
+      "% Amount": "0.03"
+    },
+    {
+      "Sr.": "281",
+      "Category": "Shallu .",
+      "Quantity": "1",
+      "Rate": "1549.00",
+      "Amount": "1549.00",
+      "% Amount": "0.03"
+    },
+    {
+      "Sr.": "285",
+      "Category": "Shela",
+      "Quantity": "2",
+      "Rate": "415.00",
+      "Amount": "830.00",
+      "% Amount": "0.02"
+    },
+    {
+      "Sr.": "285",
+      "Category": "Shela",
+      "Quantity": "3",
+      "Rate": "494.00",
+      "Amount": "1482.00",
+      "% Amount": "0.03"
+    },
+    {
+      "Sr.": "285",
+      "Category": "Shela",
+      "Quantity": "2",
+      "Rate": "394.00",
+      "Amount": "788.00",
+      "% Amount": "0.02"
+    },
+    {
+      "Sr.": "286",
+      "Category": "Silk",
+      "Quantity": "1",
+      "Rate": "309.38",
+      "Amount": "309.38",
+      "% Amount": "0.01"
+    },
+    {
+      "Sr.": "286",
+      "Category": "Silk",
+      "Quantity": "3",
+      "Rate": "312.02",
+      "Amount": "936.06",
+      "% Amount": "0.02"
+    },
+    {
+      "Sr.": "289",
+      "Category": "Silk Saree",
+      "Quantity": "3",
+      "Rate": "273.00",
+      "Amount": "819.00",
+      "% Amount": "0.02"
+    },
+    {
+      "Sr.": "290",
+      "Category": "Siroski Work.",
+      "Quantity": "1",
+      "Rate": "1258.95",
+      "Amount": "1258.95",
+      "% Amount": "0.03"
+    },
+    {
+      "Sr.": "291",
+      "Category": "Soft  Silk",
+      "Quantity": "1",
+      "Rate": "1144.50",
+      "Amount": "1144.50",
+      "% Amount": "0.03"
+    },
+    {
+      "Sr.": "291",
+      "Category": "Soft  Silk",
+      "Quantity": "1",
+      "Rate": "1649.00",
+      "Amount": "1649.00",
+      "% Amount": "0.04"
+    },
+    {
+      "Sr.": "291",
+      "Category": "Soft  Silk",
+      "Quantity": "1",
+      "Rate": "525.00",
+      "Amount": "525.00",
+      "% Amount": "0.01"
+    },
+    {
+      "Sr.": "293",
+      "Category": "Soft Silk",
+      "Quantity": "1",
+      "Rate": "525.00",
+      "Amount": "525.00",
+      "% Amount": "0.01"
+    },
+    {
+      "Sr.": "293",
+      "Category": "Soft Silk",
+      "Quantity": "1",
+      "Rate": "473.00",
+      "Amount": "473.00",
+      "% Amount": "0.01"
+    },
+    {
+      "Sr.": "293",
+      "Category": "Soft Silk",
+      "Quantity": "1",
+      "Rate": "499.00",
+      "Amount": "499.00",
+      "% Amount": "0.01"
+    },
+    {
+      "Sr.": "293",
+      "Category": "Soft Silk",
+      "Quantity": "1",
+      "Rate": "367.50",
+      "Amount": "367.50",
+      "% Amount": "0.01"
+    },
+    {
+      "Sr.": "293",
+      "Category": "Soft Silk",
+      "Quantity": "1",
+      "Rate": "1077.00",
+      "Amount": "1077.00",
+      "% Amount": "0.02"
+    },
+    {
+      "Sr.": "293",
+      "Category": "Soft Silk",
+      "Quantity": "1",
+      "Rate": "922.70",
+      "Amount": "922.70",
+      "% Amount": "0.02"
+    },
+    {
+      "Sr.": "293",
+      "Category": "Soft Silk",
+      "Quantity": "2",
+      "Rate": "656.00",
+      "Amount": "1312.00",
+      "% Amount": "0.03"
+    },
+    {
+      "Sr.": "294",
+      "Category": "Soft Silk .",
+      "Quantity": "1",
+      "Rate": "735.00",
+      "Amount": "735.00",
+      "% Amount": "0.02"
+    },
+    {
+      "Sr.": "294",
+      "Category": "Soft Silk .",
+      "Quantity": "2",
+      "Rate": "939.76",
+      "Amount": "1879.52",
+      "% Amount": "0.04"
+    },
+    {
+      "Sr.": "295",
+      "Category": "Soft Tissue",
+      "Quantity": "2",
+      "Rate": "761.00",
+      "Amount": "1522.00",
+      "% Amount": "0.03"
+    },
+    {
+      "Sr.": "296",
+      "Category": "Softy Silk",
+      "Quantity": "1",
+      "Rate": "350.00",
+      "Amount": "350.00",
+      "% Amount": "0.01"
+    },
+    {
+      "Sr.": "296",
+      "Category": "Softy Silk",
+      "Quantity": "2",
+      "Rate": "505.00",
+      "Amount": "1010.00",
+      "% Amount": "0.02"
+    },
+    {
+      "Sr.": "296",
+      "Category": "Softy Silk",
+      "Quantity": "1",
+      "Rate": "588.00",
+      "Amount": "588.00",
+      "% Amount": "0.01"
+    },
+    {
+      "Sr.": "297",
+      "Category": "South  Silk",
+      "Quantity": "2",
+      "Rate": "735.00",
+      "Amount": "1470.00",
+      "% Amount": "0.03"
+    },
+    {
+      "Sr.": "299",
+      "Category": "South Broket",
+      "Quantity": "1",
+      "Rate": "998.00",
+      "Amount": "998.00",
+      "% Amount": "0.02"
+    },
+    {
+      "Sr.": "300",
+      "Category": "South Broket1",
+      "Quantity": "1",
+      "Rate": "588.00",
+      "Amount": "588.00",
+      "% Amount": "0.01"
+    },
+    {
+      "Sr.": "302",
+      "Category": "South Silk",
+      "Quantity": "1",
+      "Rate": "1044.75",
+      "Amount": "1044.75",
+      "% Amount": "0.02"
+    },
+    {
+      "Sr.": "302",
+      "Category": "South Silk",
+      "Quantity": "1",
+      "Rate": "688.00",
+      "Amount": "688.00",
+      "% Amount": "0.02"
+    },
+    {
+      "Sr.": "302",
+      "Category": "South Silk",
+      "Quantity": "1",
+      "Rate": "645.77",
+      "Amount": "645.77",
+      "% Amount": "0.01"
+    },
+    {
+      "Sr.": "302",
+      "Category": "South Silk",
+      "Quantity": "1",
+      "Rate": "777.00",
+      "Amount": "777.00",
+      "% Amount": "0.02"
+    },
+    {
+      "Sr.": "302",
+      "Category": "South Silk",
+      "Quantity": "3",
+      "Rate": "473.00",
+      "Amount": "1419.00",
+      "% Amount": "0.03"
+    },
+    {
+      "Sr.": "302",
+      "Category": "South Silk",
+      "Quantity": "1",
+      "Rate": "278.25",
+      "Amount": "278.25",
+      "% Amount": "0.01"
+    },
+    {
+      "Sr.": "302",
+      "Category": "South Silk",
+      "Quantity": "1",
+      "Rate": "630.00",
+      "Amount": "630.00",
+      "% Amount": "0.01"
+    },
+    {
+      "Sr.": "302",
+      "Category": "South Silk",
+      "Quantity": "3",
+      "Rate": "483.00",
+      "Amount": "1449.00",
+      "% Amount": "0.03"
+    },
+    {
+      "Sr.": "302",
+      "Category": "South Silk",
+      "Quantity": "3",
+      "Rate": "415.00",
+      "Amount": "1245.00",
+      "% Amount": "0.03"
+    },
+    {
+      "Sr.": "304",
+      "Category": "Synthetic.",
+      "Quantity": "6",
+      "Rate": "187.00",
+      "Amount": "1122.00",
+      "% Amount": "0.03"
+    },
+    {
+      "Sr.": "305",
+      "Category": "Takshila",
+      "Quantity": "2",
+      "Rate": "724.50",
+      "Amount": "1449.00",
+      "% Amount": "0.03"
+    },
+    {
+      "Sr.": "306",
+      "Category": "Takshila.",
+      "Quantity": "2",
+      "Rate": "325.50",
+      "Amount": "651.00",
+      "% Amount": "0.01"
+    },
+    {
+      "Sr.": "306",
+      "Category": "Takshila.",
+      "Quantity": "2",
+      "Rate": "588.00",
+      "Amount": "1176.00",
+      "% Amount": "0.03"
+    },
+    {
+      "Sr.": "309",
+      "Category": "Tissu Silk",
+      "Quantity": "1",
+      "Rate": "1307.28",
+      "Amount": "1307.28",
+      "% Amount": "0.03"
+    },
+    {
+      "Sr.": "309",
+      "Category": "Tissu Silk",
+      "Quantity": "2",
+      "Rate": "740.00",
+      "Amount": "1480.00",
+      "% Amount": "0.03"
+    },
+    {
+      "Sr.": "314",
+      "Category": "Tusser Silk",
+      "Quantity": "1",
+      "Rate": "656.00",
+      "Amount": "656.00",
+      "% Amount": "0.01"
+    },
+    {
+      "Sr.": "314",
+      "Category": "Tusser Silk",
+      "Quantity": "2",
+      "Rate": "840.00",
+      "Amount": "1680.00",
+      "% Amount": "0.04"
+    },
+    {
+      "Sr.": "314",
+      "Category": "Tusser Silk",
+      "Quantity": "2",
+      "Rate": "446.25",
+      "Amount": "892.50",
+      "% Amount": "0.02"
+    },
+    {
+      "Sr.": "317",
+      "Category": "Valkalam",
+      "Quantity": "2",
+      "Rate": "331.00",
+      "Amount": "662.00",
+      "% Amount": "0.01"
+    },
+    {
+      "Sr.": "317",
+      "Category": "Valkalam",
+      "Quantity": "1",
+      "Rate": "410.00",
+      "Amount": "410.00",
+      "% Amount": "0.01"
+    },
+    {
+      "Sr.": "317",
+      "Category": "Valkalam",
+      "Quantity": "1",
+      "Rate": "504.00",
+      "Amount": "504.00",
+      "% Amount": "0.01"
+    },
+    {
+      "Sr.": "317",
+      "Category": "Valkalam",
+      "Quantity": "1",
+      "Rate": "448.88",
+      "Amount": "448.88",
+      "% Amount": "0.01"
+    },
+    {
+      "Sr.": "317",
+      "Category": "Valkalam",
+      "Quantity": "1",
+      "Rate": "448.89",
+      "Amount": "448.89",
+      "% Amount": "0.01"
+    },
+    {
+      "Sr.": "321",
+      "Category": "White Spl",
+      "Quantity": "3",
+      "Rate": "314.21",
+      "Amount": "942.63",
+      "% Amount": "0.02"
+    },
+    {
+      "Sr.": "322",
+      "Category": "Work -- S",
+      "Quantity": "2",
+      "Rate": "935.00",
+      "Amount": "1870.00",
+      "% Amount": "0.04"
+    },
+    {
+      "Sr.": "322",
+      "Category": "Work -- S",
+      "Quantity": "1",
+      "Rate": "1460.00",
+      "Amount": "1460.00",
+      "% Amount": "0.03"
+    },
+    {
+      "Sr.": "322",
+      "Category": "Work -- S",
+      "Quantity": "2",
+      "Rate": "830.00",
+      "Amount": "1660.00",
+      "% Amount": "0.04"
+    },
+    {
+      "Sr.": "323",
+      "Category": "Work Es",
+      "Quantity": "1",
+      "Rate": "1670.00",
+      "Amount": "1670.00",
+      "% Amount": "0.04"
+    },
+    {
+      "Sr.": "323",
+      "Category": "Work Es",
+      "Quantity": "1",
+      "Rate": "1880.00",
+      "Amount": "1880.00",
+      "% Amount": "0.04"
+    },
+    {
+      "Sr.": "323",
+      "Category": "Work Es",
+      "Quantity": "3",
+      "Rate": "625.00",
+      "Amount": "1875.00",
+      "% Amount": "0.04"
+    },
+    {
+      "Sr.": "323",
+      "Category": "Work Es",
+      "Quantity": "1",
+      "Rate": "819.00",
+      "Amount": "819.00",
+      "% Amount": "0.02"
+    },
+    {
+      "Sr.": "323",
+      "Category": "Work Es",
+      "Quantity": "1",
+      "Rate": "871.50",
+      "Amount": "871.50",
+      "% Amount": "0.02"
+    },
+    {
+      "Sr.": "323",
+      "Category": "Work Es",
+      "Quantity": "1",
+      "Rate": "997.50",
+      "Amount": "997.50",
+      "% Amount": "0.02"
+    },
+    {
+      "Sr.": "323",
+      "Category": "Work Es",
+      "Quantity": "1",
+      "Rate": "619.50",
+      "Amount": "619.50",
+      "% Amount": "0.01"
+    },
+    {
+      "Sr.": "324",
+      "Category": "Work Saree",
+      "Quantity": "1",
+      "Rate": "1314.00",
+      "Amount": "1314.00",
+      "% Amount": "0.03"
+    },
+    {
+      "Sr.": "324",
+      "Category": "Work Saree",
+      "Quantity": "1",
+      "Rate": "1125.00",
+      "Amount": "1125.00",
+      "% Amount": "0.03"
+    },
+    {
+      "Sr.": "324",
+      "Category": "Work Saree",
+      "Quantity": "1",
+      "Rate": "1502.55",
+      "Amount": "1502.55",
+      "% Amount": "0.03"
+    },
+    {
+      "Sr.": "324",
+      "Category": "Work Saree",
+      "Quantity": "1",
+      "Rate": "1459.50",
+      "Amount": "1459.50",
+      "% Amount": "0.03"
+    },
+    {
+      "Sr.": "324",
+      "Category": "Work Saree",
+      "Quantity": "1",
+      "Rate": "1039.50",
+      "Amount": "1039.50",
+      "% Amount": "0.02"
+    },
+    {
+      "Sr.": "324",
+      "Category": "Work Saree",
+      "Quantity": "1",
+      "Rate": "1249.51",
+      "Amount": "1249.51",
+      "% Amount": "0.03"
+    },
+    {
+      "Sr.": "324",
+      "Category": "Work Saree",
+      "Quantity": "1",
+      "Rate": "1669.51",
+      "Amount": "1669.51",
+      "% Amount": "0.04"
+    },
+    {
+      "Sr.": "326",
+      "Category": "Work-S.",
+      "Quantity": "1",
+      "Rate": "598.00",
+      "Amount": "598.00",
+      "% Amount": "0.01"
+    },
+    {
+      "Sr.": "326",
+      "Category": "Work-S.",
+      "Quantity": "1",
+      "Rate": "1012.00",
+      "Amount": "1012.00",
+      "% Amount": "0.02"
+    },
+    {
+      "Sr.": "326",
+      "Category": "Work-S.",
+      "Quantity": "1",
+      "Rate": "983.00",
+      "Amount": "983.00",
+      "% Amount": "0.02"
+    },
+    {
+      "Sr.": "326",
+      "Category": "Work-S.",
+      "Quantity": "2",
+      "Rate": "574.00",
+      "Amount": "1148.00",
+      "% Amount": "0.03"
+    },
+    {
+      "Sr.": "326",
+      "Category": "Work-S.",
+      "Quantity": "3",
+      "Rate": "408.97",
+      "Amount": "1226.91",
+      "% Amount": "0.03"
+    },
+    {
+      "Sr.": "326",
+      "Category": "Work-S.",
+      "Quantity": "1",
+      "Rate": "738.00",
+      "Amount": "738.00",
+      "% Amount": "0.02"
+    },
+    {
+      "Sr.": "326",
+      "Category": "Work-S.",
+      "Quantity": "2",
+      "Rate": "539.80",
+      "Amount": "1079.60",
+      "% Amount": "0.02"
+    },
+    {
+      "Sr.": "326",
+      "Category": "Work-S.",
+      "Quantity": "1",
+      "Rate": "1491.00",
+      "Amount": "1491.00",
+      "% Amount": "0.03"
+    },
+    {
+      "Sr.": "326",
+      "Category": "Work-S.",
+      "Quantity": "1",
+      "Rate": "834.68",
+      "Amount": "834.68",
+      "% Amount": "0.02"
+    },
+    {
+      "Sr.": "326",
+      "Category": "Work-S.",
+      "Quantity": "1",
+      "Rate": "473.00",
+      "Amount": "473.00",
+      "% Amount": "0.01"
+    },
+    {
+      "Sr.": "N/A",
+      "Category": "Total :",
+      "Quantity": "5856",
+      "Rate": "N/A",
+      "Amount": "N/A",
+      "% Amount": "N/A"
+    }
+  ]
+}

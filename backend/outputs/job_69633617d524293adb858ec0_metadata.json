@@ -1,0 +1,25 @@
+{
+  "job_id": "69633617d524293adb858ec0",
+  "schema_version": "1.0",
+  "processing_timestamp": "2026-01-11T05:33:12.270967",
+  "total_rows": 1,
+  "columns": [
+    "Generated on",
+    "Total Revenue",
+    "This Month",
+    "Last Month",
+    "Month-over-Month Growth",
+    "Total Orders",
+    "Delivered",
+    "Cancelled",
+    "Delivery Rate",
+    "2025-12-21"
+  ],
+  "validation_summary": {
+    "total_rows": 1,
+    "valid_rows": 1,
+    "invalid_rows": 0,
+    "total_errors": 0,
+    "error_breakdown": {}
+  }
+}

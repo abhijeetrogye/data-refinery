@@ -1,0 +1,19 @@
+{
+  "job_id": "69633b694b10446b1cf263d9",
+  "schema_version": "1.0",
+  "processing_timestamp": "2026-01-11T05:55:55.827933",
+  "total_rows": 27,
+  "columns": [
+    "SHREERANG",
+    "Print Date:         06/12"
+  ],
+  "validation_summary": {
+    "total_rows": 27,
+    "valid_rows": 27,
+    "invalid_rows": 0,
+    "total_errors": 1,
+    "error_breakdown": {
+      "type_optimization": 1
+    }
+  }
+}

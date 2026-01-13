@@ -1,0 +1,16 @@
+{
+  "job_id": "69633c09c0c856aea9725a32",
+  "schema_version": "1.0",
+  "processing_timestamp": "2026-01-11T05:58:35.647610",
+  "total_rows": 1,
+  "columns": [
+    "content"
+  ],
+  "validation_summary": {
+    "total_rows": 1,
+    "valid_rows": 1,
+    "invalid_rows": 0,
+    "total_errors": 0,
+    "error_breakdown": {}
+  }
+}

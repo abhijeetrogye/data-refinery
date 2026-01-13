@@ -1,0 +1,44 @@
+{
+  "job_id": "69633c0ac0c856aea9725a33",
+  "schema_version": "1.0",
+  "processing_timestamp": "2026-01-11T05:58:35.808771",
+  "total_rows": 2,
+  "columns": [
+    "Claim Id",
+    "date_of_discharge",
+    "time",
+    "discharge_type",
+    "doctor_name",
+    "net_claim",
+    "diagnosis",
+    "Bill No",
+    "Bill Date",
+    "general_unit",
+    "general_rate",
+    "icu_add",
+    "icu_type",
+    "icu_rate",
+    "If Consultation: Days/Units",
+    "If Consultation: Hosp Rate",
+    "Enter Text ( Investigation Performed )",
+    "If Investigation: Hosp Rate",
+    "Investigation Code",
+    "Pharmacy Amount",
+    "Clinical Finding",
+    "bill_details_pdf",
+    "echs_card_pdf",
+    "refferal_letter",
+    "others",
+    "status",
+    "Save/Submit"
+  ],
+  "validation_summary": {
+    "total_rows": 2,
+    "valid_rows": 2,
+    "invalid_rows": 0,
+    "total_errors": 3,
+    "error_breakdown": {
+      "missing_value": 3
+    }
+  }
+}

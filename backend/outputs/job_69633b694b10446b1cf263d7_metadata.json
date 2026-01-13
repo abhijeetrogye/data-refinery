@@ -1,0 +1,49 @@
+{
+  "job_id": "69633b694b10446b1cf263d7",
+  "schema_version": "1.0",
+  "processing_timestamp": "2026-01-11T05:55:55.823224",
+  "total_rows": 1,
+  "columns": [
+    "Generated on",
+    "Total Products",
+    "In Stock (>10 units)",
+    "Low Stock (1-10 units)",
+    "Out of Stock",
+    "Cotton",
+    "Silk",
+    "Designer",
+    "Georgette",
+    "Chiffon",
+    "Bridal",
+    "\u00d8=\u00df\u00e1 Bridal Lehenga Saree - Red Gold | Bridal | Stock",
+    "\u00d8=\u00df\u00e1 Reception Saree - Champagne Gold | Bridal | Stock",
+    "\u00d8=\u00df\u00e1 Patola Silk Saree - Multi Color | Silk | Stock",
+    "\u00d8=\u00df\u00e1 Kanjivaram Silk Saree - Maroon | Silk | Stock",
+    "\u00d8=\u00df\u00e2 Tussar Silk Saree - Beige | Silk | Stock",
+    "\u00d8=\u00df\u00e2 Maheshwari Silk Saree - Orange | Silk | Stock",
+    "\u00d8=\u00df\u00e2 Banarasi Silk Saree - Royal Blue | Silk | Stock",
+    "\u00d8=\u00df\u00e2 Half-Half Designer Saree - Teal | Designer | Stock",
+    "\u00d8=\u00df\u00e2 Mysore Silk Saree - Green | Silk | Stock",
+    "\u00d8=\u00df\u00e2 Designer Net Saree - Peach | Designer | Stock",
+    "\u00d8=\u00df\u00e2 Embroidered Chikankari Saree - White | Georgette | Stock",
+    "\u00d8=\u00df\u00e2 Satin Crepe Saree - Wine | Designer | Stock",
+    "\u00d8=\u00df\u00e2 Chanderi Silk Saree - Cream Gold | Silk | Stock",
+    "\u00d8=\u00df\u00e2 Organza Printed Saree - Lavender | Designer | Stock",
+    "\u00d8=\u00df\u00e2 Georgette Designer Saree - Pink | Georgette | Stock",
+    "\u00d8=\u00df\u00e2 Ikat Print Saree - Rust | Cotton | Stock",
+    "\u00d8=\u00df\u00e2 Linen Casual Saree - Sky Blue | Cotton | Stock",
+    "\u00d8=\u00df\u00e2 Chiffon Party Wear Saree - Black | Chiffon | Stock",
+    "\u00d8=\u00df\u00e2 Tant Cotton Saree - White Red | Cotton | Stock",
+    "\u00d8=\u00df\u00e2 Cotton Handloom Saree - Natural | Cotton | Stock"
+  ],
+  "validation_summary": {
+    "total_rows": 1,
+    "valid_rows": 1,
+    "invalid_rows": 0,
+    "total_errors": 5,
+    "error_breakdown": {
+      "missing_value": 1,
+      "type_optimization": 4
+    }
+  }
+}

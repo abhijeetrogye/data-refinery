@@ -1,0 +1,34 @@
+{
+  "job_id": "696336f690f92df7484625e1",
+  "schema_version": "1.0",
+  "processing_timestamp": "2026-01-11T05:36:55.825389",
+  "total_rows": 4909,
+  "columns": [
+    "Name",
+    "__UNNAMED__1",
+    "AGE",
+    "age",
+    "DOB",
+    "Phone",
+    "phone_no",
+    "E-mail",
+    "Email Address",
+    "City",
+    "CITY",
+    "Amount",
+    "Amt",
+    "\u20b9",
+    "Notes",
+    "Random",
+    "??",
+    "Status",
+    "Flag"
+  ],
+  "validation_summary": {
+    "total_rows": 4909,
+    "valid_rows": 4909,
+    "invalid_rows": 0,
+    "total_errors": 0,
+    "error_breakdown": {}
+  }
+}

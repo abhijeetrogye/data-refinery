@@ -1,0 +1,22 @@
+{
+  "job_id": "69633c0ac0c856aea9725a3c",
+  "schema_version": "1.0",
+  "processing_timestamp": "2026-01-11T05:58:35.679104",
+  "total_rows": 9,
+  "columns": [
+    "Sr.No.",
+    "Supplier Name",
+    "Unnamed: 2",
+    "Total Bill Amt",
+    "TotalPaidAmt",
+    "DNote Outstanding",
+    "Amount"
+  ],
+  "validation_summary": {
+    "total_rows": 9,
+    "valid_rows": 9,
+    "invalid_rows": 0,
+    "total_errors": 0,
+    "error_breakdown": {}
+  }
+}

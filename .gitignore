@@ -1,0 +1,36 @@
+# Virtual Environments (Recursive)
+**/venv/
+**/.venv/
+**/env/
+**/.env
+**/.env.*
+!**/.env.example
+
+# Python
+**/__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+
+# Node.js
+**/node_modules/
+**/.next/
+**/out/
+**/build/
+**/dist/
+
+# Databases
+*.db
+*.sqlite3
+
+# Logs
+*.log
+
+# OS
+.DS_Store
+Thumb.db
+
+# IDEs
+.vscode/
+.idea/

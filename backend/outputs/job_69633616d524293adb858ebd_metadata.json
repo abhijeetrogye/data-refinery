@@ -1,0 +1,18 @@
+{
+  "job_id": "69633616d524293adb858ebd",
+  "schema_version": "1.0",
+  "processing_timestamp": "2026-01-11T05:33:12.244065",
+  "total_rows": 850,
+  "columns": [
+    "Id",
+    "Alias",
+    "PersonId"
+  ],
+  "validation_summary": {
+    "total_rows": 850,
+    "valid_rows": 850,
+    "invalid_rows": 0,
+    "total_errors": 0,
+    "error_breakdown": {}
+  }
+}

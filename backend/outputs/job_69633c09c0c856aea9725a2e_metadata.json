@@ -1,0 +1,21 @@
+{
+  "job_id": "69633c09c0c856aea9725a2e",
+  "schema_version": "1.0",
+  "processing_timestamp": "2026-01-11T05:58:35.093367",
+  "total_rows": 1,
+  "columns": [
+    "registeration_id",
+    "supporting_doc",
+    "remarks",
+    "status"
+  ],
+  "validation_summary": {
+    "total_rows": 1,
+    "valid_rows": 1,
+    "invalid_rows": 0,
+    "total_errors": 1,
+    "error_breakdown": {
+      "type_optimization": 1
+    }
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "job_id": "69633c0ac0c856aea9725a36",
+  "schema_version": "1.0",
+  "processing_timestamp": "2026-01-11T05:58:35.827368",
+  "total_rows": 27,
+  "columns": [
+    "SHREERANG",
+    "",
+    "Print Date:         06/12",
+    "_duplicated_0",
+    "_duplicated_1",
+    "_duplicated_2",
+    "_duplicated_3",
+    "_duplicated_4",
+    "_duplicated_5",
+    "_duplicated_6",
+    "_duplicated_7"
+  ],
+  "validation_summary": {
+    "total_rows": 27,
+    "valid_rows": 27,
+    "invalid_rows": 0,
+    "total_errors": 3,
+    "error_breakdown": {
+      "type_optimization": 3
+    }
+  }
+}

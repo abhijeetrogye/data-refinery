@@ -1,0 +1,22 @@
+{
+  "job_id": "69633c0ac0c856aea9725a3d",
+  "schema_version": "1.0",
+  "processing_timestamp": "2026-01-11T05:58:35.785131",
+  "total_rows": 26,
+  "columns": [
+    "Sr.",
+    "Category",
+    "Quantity",
+    "Rate",
+    "Amount",
+    "% Amount",
+    "Amount_Clean"
+  ],
+  "validation_summary": {
+    "total_rows": 26,
+    "valid_rows": 26,
+    "invalid_rows": 0,
+    "total_errors": 0,
+    "error_breakdown": {}
+  }
+}
