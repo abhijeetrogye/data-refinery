@@ -1,0 +1,15 @@
+services:
+  - type: web
+    name: data-refinery-backend
+    runtime: docker
+    context: backend
+    dockerfilePath: backend/Dockerfile
+    envVars:
+      - key: PYTHON_VERSION
+        value: 3.10.0
+      - key: PROJECT_NAME
+        value: Data Refinery API
+      - key: CORS_ORIGINS
+        value: https://data-refinery.vercel.app,http://localhost:3000
+    region: singapore
+    plan: free
