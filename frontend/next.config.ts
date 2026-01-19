@@ -7,7 +7,7 @@ const nextConfig: NextConfig = {
     '*.ngrok-free.dev',
     '*.ngrok.io',
   ],
-  // @ts-expect-error - Next.js types might be outdated for these config options
+
   devIndicators: {
     appIsrStatus: false,
     buildActivity: false,
