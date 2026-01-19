@@ -3,7 +3,7 @@ services:
     name: data-refinery-backend
     runtime: docker
     context: backend
-    dockerfilePath: backend/Dockerfile
+    dockerfilePath: Dockerfile
     envVars:
       - key: PYTHON_VERSION
         value: 3.10.0
