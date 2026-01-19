@@ -11,5 +11,7 @@ services:
         value: Data Refinery API
       - key: CORS_ORIGINS
         value: https://data-refinery.vercel.app,http://localhost:3000
+      - key: SECRET_KEY
+        generateValue: true
     region: singapore
     plan: free
