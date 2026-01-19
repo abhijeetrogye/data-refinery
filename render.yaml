@@ -2,7 +2,7 @@ services:
   - type: web
     name: data-refinery-backend
     runtime: docker
-    context: backend
+    rootDir: backend
     dockerfilePath: Dockerfile
     envVars:
       - key: PYTHON_VERSION
