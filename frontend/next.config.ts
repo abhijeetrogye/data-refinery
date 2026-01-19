@@ -8,10 +8,7 @@ const nextConfig: NextConfig = {
     '*.ngrok.io',
   ],
 
-  devIndicators: {
-    appIsrStatus: false,
-    buildActivity: false,
-  },
+
   /* config options here */
 };
 
